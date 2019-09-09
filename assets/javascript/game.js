@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
     var drivers = ["Sebastian Vettel", "Charles Leclerc", "Kimi Raikkonen", "Antonio", "Antonio Giovinazzi"
                     , "Lewis Hamilton", "Valtteri Bottas", "Alexander Alborn", "Max Verstappen", "Michael Schumacher"];
     var driverImages = [
-        "Word-Guess-Game/assets/images/sebastianVettel.png", 
+        "/assets/images/sebastianVettel.png", 
         "", 
         "", 
         "", 
@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "", 
         "", 
         "", 
-        "Word-Guess-Game/assets/images/max.jpg" 
+        "/assets/images/max.jpg" 
         ,""
     ];
     console.log(drivers.length)
