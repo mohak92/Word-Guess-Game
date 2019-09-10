@@ -8,7 +8,7 @@ This is a simeple word guessing game where you will guess the name of the Formul
   <li>You will have 10 guesses to guess the name of the Formula 1 Driver</li>
   <li>The game will load with an image of a Formula 1 driver, press any alphabet to start</li>
   <li>If you enter a correct letter it will paly a sound of a Formula 1 car passing by</li>
-  <li>If you enter an incorrect letter it the game will play a sound of car crashing and display the incorrect letter at the bottom of the screen</li>
+  <li>If you enter an incorrect letter the game will play a sound of car crashing and display the incorrect letter at the bottom of the screen</li>
   <li>When you guess the driver your score will incrment by 1 point</li>
   <li>To restart the game from 0 click on the Reset button</li>
 </ul>
