@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
 
-    var drivers = ["Sebastian Vettel", "Charles Leclerc", "Kimi Raikkonen", "Antonio", "Antonio Giovinazzi"
+    var drivers = ["Sebastian Vettel", "Charles Leclerc", "Kimi Raikkonen", "Antonio Giovinazzi"
                     , "Lewis Hamilton", "Valtteri Bottas", "Alexander Alborn", "Max Verstappen", "Michael Schumacher"];
     var driverImages = [
         "assets/images/sebastianVettel.png", 
@@ -10,10 +10,10 @@ document.addEventListener("DOMContentLoaded", function () {
         "", 
         "", 
         "", 
-        "", 
         "assets/images/max.jpg" 
         ,""
     ];
+    
     console.log(drivers.length)
     console.log(driverImages.length)
     var randomSelector = Math.floor(Math.random() * drivers.length);
