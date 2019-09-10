@@ -1,6 +1,6 @@
 # Word-Guess-Game
 <h2>Theme: 2019 Formula 1 roster</h2>
-This is a simeple word guessing game where you will guess the name of the Formula 1 driver by looking at the image of the driver. To play<a href ="https://mohak92.github.io/Word-Guess-Game/">Click here</a>
+This is a simeple word guessing game where you will guess the name of the Formula 1 driver by looking at the image of the driver. To play <a href ="https://mohak92.github.io/Word-Guess-Game/">Click here</a>
 <div>
 <h3>How to play ?</h3>
 <ul>
