@@ -36,4 +36,9 @@ button {
     div.container {
         margin-top: 0px;
     }
+
+    img {
+        width: 100px;
+        height: 100px;
+    }
 }
