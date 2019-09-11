@@ -14,19 +14,11 @@ This is a simeple word guessing game where you will guess the name of the Formul
 </ul>
 </div>
 <div>
-<h3>Behind the scene:</h3>
-<ul>
-  <li>Once the HTML document is loaded a random name of Formula 1 driver is picked from an array of Fromula 1 Driver using the Math.random() method</li>
-  <li>Uses regex to validate input to check if an alphabetic input has been provided</li>
-  <li>After validation of input</li>
-</ul>
-</div>
-<div>
 <h3>Compatibility:</h3>
 You can play this game on any device on any screen size.
 </div>
 <br>
 <div>
-<h5>Environment: HTML, CSS &amp JavaScript</h5>
+  <h5>Environment: HTML, CSS &amp JavaScript</h5>
 </div>
 &copy Mohak Tamhane 2019
