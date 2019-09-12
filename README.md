@@ -15,7 +15,7 @@ This is a simple word guessing game where you will guess the name of the Formula
 </div>
 <div>
 <h3>Compatibility:</h3>
-You can play this game on any device on any screen size.
+You can play this game on any device on any screen size which has a physical keyboard for now.
 </div>
 <br>
 <div>
