@@ -140,9 +140,34 @@ document.addEventListener("DOMContentLoaded", function () {
         return /^[A-Z]$/i.test(ch);
     }
 
-});
+
 
 //This function resets the game score will be 0
+
+let Keyboard = window.SimpleKeyboard.default;
+
+let myKeyboard = new Keyboard({
+  onChange: input => onChange(input),
+  onKeyPress: button => onKeyPress(button)
+});
+
+function onChange(input) {
+  //document.querySelector(".input").value = input;
+  console.log(input)
+  input = input.split("")
+  var lenght = input.length;
+  input = input[input.length - 1];
+  if(myRegex(input)){
+    checkForLetter(input.toUpperCase());
+  }
+  console.log("Input changed", input);
+}
+
+function onKeyPress(button) {
+  console.log("Button pressed", button);
+}
+});
+
 function resetGame() {
     window.location.reload(true);
 }
